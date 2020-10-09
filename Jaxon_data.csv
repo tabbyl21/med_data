@@ -1,0 +1,142 @@
+,Med_School,MCAT,GPA,src
+0,Drexel University College of Medicine,512,3.76,https://tabbyl21.github.io/med_data/green_truffle.png
+1,Lewis Katz School of Medicine at Temple University,512,3.75,https://tabbyl21.github.io/med_data/green_truffle.png
+2,Rutgers New Jersey Medical School,512,3.74,https://tabbyl21.github.io/med_data/green_truffle.png
+3,Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo,512,3.74,https://tabbyl21.github.io/med_data/green_truffle.png
+4,George Washington University School of Medicine and Health Sciences,512,3.73,https://tabbyl21.github.io/med_data/green_truffle.png
+5,Virginia Commonwealth University School of Medicine,512,3.79,https://tabbyl21.github.io/med_data/green_truffle.png
+6,University of Minnesota Medical School,513,3.77,https://tabbyl21.github.io/med_data/yellow_truffle.png
+7,University of South Carolina School of Medicine Greenville,511,3.77,https://tabbyl21.github.io/med_data/yellow_truffle.png
+8,Oregon Health & Science University School of Medicine,513,3.77,https://tabbyl21.github.io/med_data/yellow_truffle.png
+9,Creighton University School of Medicine,511,3.78,https://tabbyl21.github.io/med_data/yellow_truffle.png
+10,Medical University of South Carolina College of Medicine,513,3.78,https://tabbyl21.github.io/med_data/yellow_truffle.png
+11,"University of Nevada, Reno School of Medicine",511,3.74,https://tabbyl21.github.io/med_data/blue_truffle.png
+12,University of Kentucky College of Medicine,511,3.79,https://tabbyl21.github.io/med_data/blue_truffle.png
+13,Georgetown University School of Medicine,513,3.79,https://tabbyl21.github.io/med_data/blue_truffle.png
+14,Rush Medical College,512,3.71,https://tabbyl21.github.io/med_data/blue_truffle.png
+15,Wake Forest School of Medicine - Wake Forest Baptist Health,511,3.72,https://tabbyl21.github.io/med_data/blue_truffle.png
+16,Charles E. Schmidt College of Medicine at Florida Atlantic University,511,3.8,https://tabbyl21.github.io/med_data/red_truffle.png
+17,Robert Larner College of Medicine at the University of Vermont,512,3.7,https://tabbyl21.github.io/med_data/red_truffle.png
+18,Carle Illinois College of Medicine,512,3.7,https://tabbyl21.github.io/med_data/red_truffle.png
+19,University of Miami Leonard M. Miller School of Medicine,514,3.75,https://tabbyl21.github.io/med_data/red_truffle.png
+20,Chicago Medical School at Rosalind Franklin University of Medicine & Science,514,3.74,https://tabbyl21.github.io/med_data/black_truffle.png
+21,Sidney Kimmel Medical College at Thomas Jefferson University,514,3.74,https://tabbyl21.github.io/med_data/black_truffle.png
+22,University of Colorado School of Medicine,513,3.82,https://tabbyl21.github.io/med_data/black_truffle.png
+23,University of Utah School of Medicine,513,3.82,https://tabbyl21.github.io/med_data/black_truffle.png
+24,Louisiana State University School of Medicine in New Orleans,512,3.69,https://tabbyl21.github.io/med_data/black_truffle.png
+25,Hackensack Meridian School of Medicine at Seton Hall University,510,3.73,https://tabbyl21.github.io/med_data/black_truffle.png
+26,University of Washington School of Medicine,510,3.79,https://tabbyl21.github.io/med_data/black_truffle.png
+27,State University of New York Downstate College of Medicine,514,3.72,https://tabbyl21.github.io/med_data/black_truffle.png
+28,Tufts University School of Medicine,514,3.72,https://tabbyl21.github.io/med_data/black_truffle.png
+29,Penn State University College of Medicine,510,3.8,https://tabbyl21.github.io/med_data/black_truffle.png
+30,University of Arkansas for Medical Sciences College of Medicine,510,3.72,https://tabbyl21.github.io/med_data/black_truffle.png
+31,Indiana University School of Medicine,510,3.8,https://tabbyl21.github.io/med_data/black_truffle.png
+32,University of Kansas School of Medicine,511,3.83,https://tabbyl21.github.io/med_data/black_truffle.png
+33,Eastern Virginia Medical School,512,3.68,https://tabbyl21.github.io/med_data/black_truffle.png
+34,University of Tennessee Health Science Center College of Medicine,514,3.71,https://tabbyl21.github.io/med_data/black_truffle.png
+35,West Virginia University School of Medicine,510,3.81,https://tabbyl21.github.io/med_data/black_truffle.png
+36,University of Wisconsin School of Medicine and Public Health,513,3.84,https://tabbyl21.github.io/med_data/black_truffle.png
+37,University of Nebraska College of Medicine,511,3.84,https://tabbyl21.github.io/med_data/black_truffle.png
+38,Frank H. Netter MD School of Medicine at Quinnipiac University,513,3.68,https://tabbyl21.github.io/med_data/black_truffle.png
+39,University of Alabama School of Medicine,510,3.82,https://tabbyl21.github.io/med_data/black_truffle.png
+40,Medical College of Wisconsin,510,3.7,https://tabbyl21.github.io/med_data/black_truffle.png
+41,University of Connecticut School of Medicine,510,3.82,https://tabbyl21.github.io/med_data/black_truffle.png
+42,University of Arizona College of Medicine - Phoenix,510,3.69,https://tabbyl21.github.io/med_data/black_truffle.png
+43,University of Maryland School of Medicine,513,3.85,https://tabbyl21.github.io/med_data/black_truffle.png
+44,University of Illinois College of Medicine,515,3.75,https://tabbyl21.github.io/med_data/black_truffle.png
+45,University of Massachusetts Medical School,515,3.78,https://tabbyl21.github.io/med_data/black_truffle.png
+46,University of South Dakota Sanford School of Medicine,509,3.79,https://tabbyl21.github.io/med_data/black_truffle.png
+47,Albany Medical College,510,3.68,https://tabbyl21.github.io/med_data/black_truffle.png
+48,University of South Carolina School of Medicine,510,3.84,https://tabbyl21.github.io/med_data/black_truffle.png
+49,Loyola University Chicago Stritch School of Medicine,510,3.68,https://tabbyl21.github.io/med_data/black_truffle.png
+50,Emory School of Medicine,515,3.8,https://tabbyl21.github.io/med_data/black_truffle.png
+51,Oakland University William Beaumont School of Medicine,509,3.8,https://tabbyl21.github.io/med_data/black_truffle.png
+52,University of Central Florida College of Medicine,515,3.8,https://tabbyl21.github.io/med_data/black_truffle.png
+53,University of Arizona College of Medicine - Tucson,513,3.86,https://tabbyl21.github.io/med_data/black_truffle.png
+54,Uniformed Services University of the Health Sciences F. Edward Hebert School of Medicine,509,3.71,https://tabbyl21.github.io/med_data/black_truffle.png
+55,State University of New York Upstate Medical University,515,3.81,https://tabbyl21.github.io/med_data/black_truffle.png
+56,New York Medical College,512,3.65,https://tabbyl21.github.io/med_data/black_truffle.png
+57,Medical College of Georgia at Augusta University,512,3.87,https://tabbyl21.github.io/med_data/black_truffle.png
+58,University of Hawaii John A. Burns School of Medicine,514,3.85,https://tabbyl21.github.io/med_data/black_truffle.png
+59,California University of Science and Medicine,514,3.67,https://tabbyl21.github.io/med_data/black_truffle.png
+60,Texas Tech University Health Sciences Center School of Medicine,511,3.81,https://tabbyl21.github.io/med_data/black_truffle.png
+61,Wayne State University School of Medicine,509,3.69,https://tabbyl21.github.io/med_data/black_truffle.png
+62,University of Iowa Roy J. and Lucille A. Carver College of Medicine,515,3.83,https://tabbyl21.github.io/med_data/black_truffle.png
+63,Geisinger Commonwealth School of Medicine,510,3.65,https://tabbyl21.github.io/med_data/black_truffle.png
+64,The University of Toledo College of Medicine and Life Sciences,510,3.65,https://tabbyl21.github.io/med_data/black_truffle.png
+65,Keck School of Medicine of the USC,516,3.75,https://tabbyl21.github.io/med_data/black_truffle.png
+66,Geisel School of Medicine at Dartmouth,516,3.74,https://tabbyl21.github.io/med_data/black_truffle.png
+67,Tulane University School of Medicine,512,3.63,https://tabbyl21.github.io/med_data/black_truffle.png
+68,University of Rochester School of Medicine and Dentistry,516,3.79,https://tabbyl21.github.io/med_data/black_truffle.png
+69,University of Florida College of Medicine,515,3.85,https://tabbyl21.github.io/med_data/black_truffle.png
+70,Florida International University Herbert Wertheim College of Medicine,515,3.67,https://tabbyl21.github.io/med_data/black_truffle.png
+71,University of Louisville School of Medicine,509,3.66,https://tabbyl21.github.io/med_data/black_truffle.png
+72,The University of Texas Health Science Center at San Antonio Joe R. and Teresa Lozano Long School of Medicine,513,3.83,https://tabbyl21.github.io/med_data/black_truffle.png
+73,"University of California, Davis School of Medicine",513,3.62,https://tabbyl21.github.io/med_data/black_truffle.png
+74,Albert Einstein College of Medicine,516,3.84,https://tabbyl21.github.io/med_data/black_truffle.png
+75,University of North Carolina at Chapel Hill School of Medicine,516,3.84,https://tabbyl21.github.io/med_data/black_truffle.png
+76,Virginia Tech Carilion School of Medicine,514,3.62,https://tabbyl21.github.io/med_data/black_truffle.png
+77,Saint Louis University School of Medicine,514,3.9,https://tabbyl21.github.io/med_data/black_truffle.png
+78,Rutgers Robert Wood Johnson Medical School,514,3.62,https://tabbyl21.github.io/med_data/black_truffle.png
+79,"University of California, Irvine School of Medicine",515,3.89,https://tabbyl21.github.io/med_data/black_truffle.png
+80,Renaissance School of Medicine at Stony Brook University,516,3.86,https://tabbyl21.github.io/med_data/black_truffle.png
+81,Texas A&M University College of Medicine,512,3.85,https://tabbyl21.github.io/med_data/black_truffle.png
+82,University of Missouri - Kansas City School of Medicine,507,3.8,https://tabbyl21.github.io/med_data/black_truffle.png
+83,Marshall University Joan C. Edwards School of Medicine,507,3.7,https://tabbyl21.github.io/med_data/black_truffle.png
+84,Warren Alpert Medical School of Brown University,517,3.83,https://tabbyl21.github.io/med_data/black_truffle.png
+85,Loma Linda University School of Medicine,508,3.88,https://tabbyl21.github.io/med_data/black_truffle.png
+86,Cooper Medical School of Rowan University,507,3.68,https://tabbyl21.github.io/med_data/black_truffle.png
+87,Morsani College of Medicine at USF Health,517,3.67,https://tabbyl21.github.io/med_data/black_truffle.png
+88,University of Missouri - Columbia School of Medicine,507,3.67,https://tabbyl21.github.io/med_data/black_truffle.png
+89,University of Oklahoma College of Medicine,516,3.9,https://tabbyl21.github.io/med_data/black_truffle.png
+90,Central Michigan University College of Medicine,508,3.62,https://tabbyl21.github.io/med_data/black_truffle.png
+91,University of North Dakota School of Medicine and Health Sciences,506,3.77,https://tabbyl21.github.io/med_data/black_truffle.png
+92,McGovern Medical School at the University of Texas Health Science Center at Houston,513,3.86,https://tabbyl21.github.io/med_data/black_truffle.png
+93,Donald and Barbara Zucker School of Medicine at Hofstra/Northwell,518,3.81,https://tabbyl21.github.io/med_data/black_truffle.png
+94,Case Western Reserve University School of Medicine,518,3.82,https://tabbyl21.github.io/med_data/black_truffle.png
+95,University of New Mexico School of Medicine,506,3.69,https://tabbyl21.github.io/med_data/black_truffle.png
+96,Western Michigan University Homer Stryker M.D. School of Medicine,517,3.63,https://tabbyl21.github.io/med_data/black_truffle.png
+97,University of South Alabama College of Medicine,507,3.89,https://tabbyl21.github.io/med_data/black_truffle.png
+98,Ohio State University College of Medicine,517,3.89,https://tabbyl21.github.io/med_data/black_truffle.png
+99,University of Cincinnati College of Medicine,518,3.84,https://tabbyl21.github.io/med_data/black_truffle.png
+100,Boston University School of Medicine,518,3.84,https://tabbyl21.github.io/med_data/black_truffle.png
+101,Morehouse School of Medicine,506,3.67,https://tabbyl21.github.io/med_data/black_truffle.png
+102,Northeast Ohio Medical University,505,3.75,https://tabbyl21.github.io/med_data/black_truffle.png
+103,University of Pittsburgh School of Medicine,518,3.88,https://tabbyl21.github.io/med_data/black_truffle.png
+104,Duke University School of Medicine,518,3.88,https://tabbyl21.github.io/med_data/black_truffle.png
+105,Florida State University College of Medicine,505,3.72,https://tabbyl21.github.io/med_data/black_truffle.png
+106,California Northstate University College of Medicine,514,3.54,https://tabbyl21.github.io/med_data/black_truffle.png
+107,"University of California, San Francisco School of Medicine",518,3.9,https://tabbyl21.github.io/med_data/black_truffle.png
+108,Texas Tech University Health Sciences Center Paul L. Foster School of Medicine,509,3.85,https://tabbyl21.github.io/med_data/black_truffle.png
+109,"University of California, San Diego School of Medicine",519,3.88,https://tabbyl21.github.io/med_data/black_truffle.png
+110,Icahn School of Medicine at Mount Sinai,519,3.88,https://tabbyl21.github.io/med_data/black_truffle.png
+111,"David Geffen School of Medicine at University of California, Los Angeles",519,3.89,https://tabbyl21.github.io/med_data/black_truffle.png
+112,University of Michigan Medical School,519,3.89,https://tabbyl21.github.io/med_data/black_truffle.png
+113,Wright State University Boonshoft School of Medicine,505,3.63,https://tabbyl21.github.io/med_data/black_truffle.png
+114,East Tennessee State University James H. Quillen College of Medicine,506,3.57,https://tabbyl21.github.io/med_data/black_truffle.png
+115,Louisiana State University School of Medicine in Shreveport,511,3.49,https://tabbyl21.github.io/med_data/black_truffle.png
+116,Harvard Medical School,519,3.93,https://tabbyl21.github.io/med_data/black_truffle.png
+117,Dell Medical School - The University of Texas at Austin ,516,3.83,https://tabbyl21.github.io/med_data/black_truffle.png
+118,Weill Cornell Medicine,520,3.9,https://tabbyl21.github.io/med_data/black_truffle.png
+119,University of Texas Medical Branch School of Medicine,512,3.92,https://tabbyl21.github.io/med_data/black_truffle.png
+120,Mayo Clinic Alix School of Medicine,520,3.91,https://tabbyl21.github.io/med_data/black_truffle.png
+121,Northwestern University Feinberg School of Medicine,520,3.91,https://tabbyl21.github.io/med_data/black_truffle.png
+122,Stanford University School of Medicine,520,3.94,https://tabbyl21.github.io/med_data/black_truffle.png
+123,University of Virginia School of Medicine,520,3.95,https://tabbyl21.github.io/med_data/black_truffle.png
+124,Columbia University Vagelos College of Physicians and Surgeons,521,3.9,https://tabbyl21.github.io/med_data/black_truffle.png
+125,University of Texas Southwestern Medical School,516,3.87,https://tabbyl21.github.io/med_data/black_truffle.png
+126,University of Chicago Division of the Biological Sciences Pritzker School of Medicine,521,3.92,https://tabbyl21.github.io/med_data/black_truffle.png
+127,Perelman School of Medicine at the University of Pennsylvania,521,3.92,https://tabbyl21.github.io/med_data/black_truffle.png
+128,Vanderbilt University School of Medicine,521,3.93,https://tabbyl21.github.io/med_data/black_truffle.png
+129,Johns Hopkins University School of Medicine,521,3.94,https://tabbyl21.github.io/med_data/black_truffle.png
+130,Yale School of Medicine,522,3.92,https://tabbyl21.github.io/med_data/black_truffle.png
+131,Howard University College of Medicine,504,3.51,https://tabbyl21.github.io/med_data/black_truffle.png
+132,Washington University School of Medicine in St. Louis,522,3.93,https://tabbyl21.github.io/med_data/black_truffle.png
+133,"University of Nevada Las Vegas, School of Medicine",509,3.41,https://tabbyl21.github.io/med_data/black_truffle.png
+134,New York University Grossman School of Medicine,522,3.95,https://tabbyl21.github.io/med_data/black_truffle.png
+135,Michigan State University College of Human Medicine,504,3.46,https://tabbyl21.github.io/med_data/black_truffle.png
+136,Meharry Medical College,502,3.5,https://tabbyl21.github.io/med_data/black_truffle.png
+137,University of Texas Rio Grande Valley School of Medicine,508,3.58,https://tabbyl21.github.io/med_data/black_truffle.png
+138,Washington State University Elson S. Floyd College of Medicine,511,3.31,https://tabbyl21.github.io/med_data/black_truffle.png
+139,Baylor College of Medicine,518,3.93,https://tabbyl21.github.io/med_data/black_truffle.png
+140,Jaxon Baum,512,3.76,https://tabbyl21.github.io/med_data/rute_pig.png
