@@ -1,0 +1,150 @@
+,Unnamed: 0,Med_School,Median_IS_MCAT,Median_OS_MCAT,State,Research_Score,Median_IS_GPA,Median_OS_GPA
+0,0,Albany Medical College,511,511,New York,2,3.66,3.63
+1,1,Albert Einstein College of Medicine,515,516,New York,4,3.77,3.79
+2,2,Baylor College of Medicine,518,520,Texas,5,3.91,3.95
+3,3,Boston University School of Medicine,518,518,Massachusetts,5,3.82,3.81
+4,4,Brody School of Medicine at East Carolina University,508,508,North Carolina,2,3.69,3.69
+5,5,California Northstate University College of Medicine,512,512,California,1,3.63,3.6
+6,6,California University of Science and Medicine,513,512,California,1,3.67,3.67
+7,7,Carle Illinois College of Medicine,516,516,Illinois,1,3.76,3.66
+8,8,Case Western Reserve University School of Medicine,518,519,Ohio,5,3.85,3.84
+9,9,Central Michigan University College of Medicine,510,507,Michigan,2,3.69,3.52
+10,10,Charles E. Schmidt College of Medicine at Florida Atlantic University,512,512,Florida,2,3.8,3.68
+11,11,Chicago Medical School at Rosalind Franklin University of Medicine & Science,512,512,Illinois,2,3.69,3.63
+12,12,Columbia University Vagelos College of Physicians and Surgeons,520,521,New York,5,3.86,3.92
+13,13,Cooper Medical School of Rowan University,511,511,New Jersey,2,3.74,3.67
+14,14,Creighton University School of Medicine,511,513,Nebraska,2,3.82,3.78
+15,15,"David Geffen School of Medicine at University of California, Los Angeles",517,519,California,5,3.83,3.85
+16,16,Dell Medical School - The University of Texas at Austin ,515,516,Texas,2,3.86,3.96
+17,17,Donald and Barbara Zucker School of Medicine at Hofstra/Northwell,517,518,New York,3,3.73,3.82
+18,18,Drexel University College of Medicine,513,512,Pennsylvania,3,3.78,3.69
+19,19,Duke University School of Medicine,519,519,North Carolina,5,3.83,3.86
+20,20,East Tennessee State University James H. Quillen College of Medicine,509,510,Tennessee,2,3.83,3.72
+21,21,Eastern Virginia Medical School,514,512,Virginia,3,3.7,3.66
+22,22,Emory School of Medicine,513,515,Georgia,5,3.81,3.75
+23,23,Florida International University Herbert Wertheim College of Medicine,510,511,Florida,2,3.8,3.66
+24,24,Florida State University College of Medicine,507,506,Florida,2,3.78,3.63
+25,25,Frank H. Netter MD School of Medicine at Quinnipiac University,513,513,Connecticut,1,3.7,3.62
+26,26,Geisel School of Medicine at Dartmouth,520,516,New Hampshire,4,3.69,3.74
+27,27,Geisinger Commonwealth School of Medicine,512,511,Pennsylvania,2,3.75,3.57
+28,28,George Washington University School of Medicine and Health Sciences,513,513,Washington D.C.,4,3.57,3.71
+29,29,Georgetown University School of Medicine,509,514,Washington D.C.,4,3.16,3.77
+30,30,Hackensack Meridian School of Medicine at Seton Hall University,512,511,New Jersey,1,3.78,3.69
+31,31,Harvard Medical School,520,520,Massachusetts,5,3.91,3.94
+32,32,Howard University College of Medicine,505,506,Washington D.C.,3,3.38,3.41
+33,33,Icahn School of Medicine at Mount Sinai,519,520,New York,5,3.81,3.87
+34,34,Indiana University School of Medicine,512,511,Indiana,4,3.84,3.8
+35,35,Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo,511,512,New York,3,3.7,3.68
+36,36,Johns Hopkins University School of Medicine,520,522,Maryland,5,3.88,3.96
+37,37,Kaiser Permanente Bernard J. Tyson School of Medicine,515,515,California,1,3.85,3.85
+38,38,Keck School of Medicine of the USC,517,517,California,5,3.8,3.79
+39,39,Lewis Katz School of Medicine at Temple University,513,511,Pennsylvania,4,3.76,3.68
+40,40,Loma Linda University School of Medicine,510,509,California,3,3.84,3.88
+41,41,Louisiana State University School of Medicine in New Orleans,509,511,Louisiana,3,3.81,3.75
+42,42,Louisiana State University School of Medicine in Shreveport,505,503,Louisiana,2,3.79,3.43
+43,43,Loyola University Chicago Stritch School of Medicine,513,511,Illinois,3,3.75,3.66
+44,44,Marshall University Joan C. Edwards School of Medicine,503,503,West Virginia,2,3.69,3.73
+45,45,Mayo Clinic Alix School of Medicine,520,520,Minnesota,3,3.91,3.93
+46,46,McGovern Medical School at the University of Texas Health Science Center at Houston,514,517,Texas,4,3.89,3.88
+47,47,Medical College of Georgia at Augusta University,512,512,Georgia,3,3.79,3.75
+48,48,Medical College of Wisconsin,511,511,Wisconsin,4,3.79,3.66
+49,49,Medical University of South Carolina College of Medicine,510,513,South Carolina,4,3.81,3.81
+50,50,Meharry Medical College,503,502,Tennessee,2,3.59,3.38
+51,51,Mercer University School of Medicine,505,505,Georgia,2,3.63,3.63
+52,52,Michigan State University College of Human Medicine,510,504,Michigan,3,3.72,3.39
+53,53,Morehouse School of Medicine,505,506,Georgia,3,3.67,3.57
+54,54,Morsani College of Medicine at USF Health,516,517,Florida,4,3.89,3.67
+55,55,New York Medical College,512,512,New York,2,3.61,3.55
+56,56,New York University Grossman School of Medicine,520,522,New York,5,3.9,3.95
+57,57,New York University Long Island School of Medicine,512,516,New York,1,3.73,3.87
+58,58,Northeast Ohio Medical University,506,506,Ohio,2,3.76,3.7
+59,59,Northwestern University Feinberg School of Medicine,520,520,Illinois,5,3.93,3.91
+60,60,Oakland University William Beaumont School of Medicine,512,509,Minnesota,2,3.86,3.79
+61,61,Ohio State University College of Medicine,516,518,Ohio,5,3.86,3.9
+62,62,Oregon Health & Science University School of Medicine,512,513,Oregan,5,3.75,3.74
+63,63,Pennsylvania State University College of Medicine,511,511,Pennsylvania,3,3.85,3.78
+64,64,Perelman School of Medicine at the University of Pennsylvania,520,522,Pennsylvania,5,3.91,3.92
+65,65,Renaissance School of Medicine at Stony Brook University,516,515,New York,4,3.81,3.84
+66,66,Robert Larner College of Medicine at the University of Vermont,512,512,Vermont,3,3.75,3.65
+67,67,Rush Medical College,513,513,Illinios,3,3.73,3.69
+68,68,Rutgers New Jersey Medical School,516,514,New Jersey,3,3.8,3.68
+69,69,Rutgers Robert Wood Johnson Medical School,514,514,New Jersey,3,3.74,3.6
+70,70,Saint Louis University School of Medicine,513,514,Missouri,3,3.92,3.84
+71,71,Sidney Kimmel Medical College at Thomas Jefferson University,514,514,Pennsylvania,4,3.79,3.73
+72,72,Southern Illinois University School of Medicine,508,509,Illinois,2,3.76,3.77
+73,73,Stanford University School of Medicine,519,520,California,5,3.91,3.88
+74,74,State University of New York Downstate College of Medicine,514,514,New York,3,3.73,3.64
+75,75,State University of New York Upstate Medical University,513,515,New York,3,3.73,3.76
+76,76,TCU and UNTHSC Fort Worth School of Medicine,507,510,Texas,1,3.51,3.6
+77,77,Texas A&M University College of Medicine,512,517,Texas,3,3.84,3.79
+78,78,Texas Tech University Health Sciences Center Paul L. Foster School of Medicine,511,514,Texas,2,3.8,3.79
+79,79,Texas Tech University Health Sciences Center School of Medicine,511,517,Texas,2,3.84,3.89
+80,80,The University of Texas Health Science Center at San Antonio Joe R. and Teresa Lozano Long School of Medicine,515,517,Texas,4,3.77,3.84
+81,81,The University of Toledo College of Medicine and Life Sciences,510,509,Ohio,2,3.74,3.65
+82,82,Tufts University School of Medicine,516,514,Massachusetts,3,3.75,3.71
+83,83,Tulane University School of Medicine,507,511,Louisiana,3,3.61,3.57
+84,84,Uniformed Services University of the Health Sciences F. Edward Hebert School of Medicine,510,511,Maryland,3,3.77,3.73
+85,85,University of Alabama School of Medicine,509,512,Alabama,5,3.83,3.79
+86,86,University of Arizona College of Medicine - Phoenix,509,511,Arizona,2,3.79,3.67
+87,87,University of Arizona College of Medicine - Tucson,516,515,Arizona,4,3.83,3.73
+88,88,University of Arkansas for Medical Sciences College of Medicine,507,510,Arkansas,4,3.79,3.79
+89,89,"University of California, Davis School of Medicine",512,504,California,4,3.66,3.46
+90,90,"University of California, Irvine School of Medicine",516,518,California,4,3.82,3.84
+91,91,"University of California, Riverside School of Medicine",510,510,California,2,3.69,3.69
+92,92,"University of California, San Diego School of Medicine",517,518,California,5,3.83,3.89
+93,93,"University of California, San Francisco School of Medicine",518,518,California,5,3.85,3.85
+94,94,University of Central Florida College of Medicine,513,514,Florida,2,3.87,3.83
+95,95,University of Chicago Division of the Biological Sciences Pritzker School of Medicine,521,521,Illinois,5,3.91,3.91
+96,96,University of Cincinnati College of Medicine,516,517,Ohio,5,3.83,3.78
+97,97,University of Colorado School of Medicine,513,513,Colorado,5,3.76,3.75
+98,98,University of Connecticut School of Medicine,514,512,Connecticut,4,3.81,3.79
+99,99,University of Florida College of Medicine,515,517,Florida,4,3.91,3.9
+100,100,University of Hawaii John A. Burns School of Medicine,512,515,Hawaii,3,3.75,3.84
+101,101,University of Illinois College of Medicine,514,513,Illinois,4,3.73,3.67
+102,102,University of Iowa Roy J. and Lucille A. Carver College of Medicine,514,518,Iowa,4,3.87,3.84
+103,103,University of Kansas School of Medicine,510,511,Kansas,3,3.84,3.84
+104,104,University of Kentucky College of Medicine,507,508,Kentucky,4,3.81,3.78
+105,105,University of Louisville School of Medicine,510,508,Kentucky,4,3.78,3.68
+106,106,University of Maryland School of Medicine,515,514,Maryland,5,3.8,3.81
+107,107,University of Massachusetts Medical School,515,516,Massachusetts,5,3.77,3.79
+108,108,University of Miami Leonard M. Miller School of Medicine,514,514,Florida,4,3.77,3.72
+109,109,University of Michigan Medical School,516,518,Michigan,5,3.84,3.83
+110,110,University of Minnesota Medical School,512,510,Minnesota,4,3.76,3.71
+111,111,University of Mississippi School of Medicine,504,504,Mississippi,3,3.8,3.8
+112,112,University of Missouri - Columbia School of Medicine,510,505,Missouri,3,3.82,3.66
+113,113,University of Missouri - Kansas City School of Medicine,508,510,Missouri,2,3.85,3.87
+114,114,University of Nebraska College of Medicine,511,513,Nebraska,4,3.85,3.87
+115,115,"University of Nevada Las Vegas, School of Medicine",509,509,Nevada,1,3.77,3.53
+116,116,"University of Nevada, Reno School of Medicine",509,509,Nevada,3,3.75,3.62
+117,117,University of New Mexico School of Medicine,505,512,New Mexico,4,3.73,3.69
+118,118,University of North Carolina at Chapel Hill School of Medicine,514,518,North Carolina,5,3.75,3.88
+119,119,University of North Dakota School of Medicine and Health Sciences,507,509,North Dakota,3,3.89,3.79
+120,120,University of Oklahoma College of Medicine,509,517,Oklahoma,3,3.82,3.92
+121,121,University of Pittsburgh School of Medicine,517,518,Pennsylvania,5,3.84,3.82
+122,122,University of Rochester School of Medicine and Dentistry,516,517,New York,4,3.8,3.8
+123,123,University of South Alabama College of Medicine,509,505,Alabama,2,3.88,3.95
+124,124,University of South Carolina School of Medicine,509,510,South Carolina,2,3.78,3.76
+125,125,University of South Carolina School of Medicine Greenville,510,510,South Carolina,2,3.84,3.77
+126,126,University of South Dakota Sanford School of Medicine,508,509,South Dakota,2,3.8,3.76
+127,127,University of Tennessee Health Science Center College of Medicine,512,510,Tennessee,3,3.82,3.53
+128,128,University of Texas Medical Branch School of Medicine,512,515,Texas,4,3.93,3.89
+129,129,University of Texas Rio Grande Valley School of Medicine,508,514,Texas,2,3.59,3.74
+130,130,University of Texas Southwestern Medical School,516,520,Texas,5,3.88,3.93
+131,131,University of Utah School of Medicine,514,514,Utah,4,3.8,3.85
+132,132,University of Virginia School of Medicine,518,520,Virginia,4,3.87,3.92
+133,133,University of Washington School of Medicine,512,509,Washington,5,3.67,3.77
+134,134,University of Wisconsin School of Medicine and Public Health,513,513,Wisconsin,5,3.81,3.74
+135,135,Vanderbilt University School of Medicine,519,521,Tennessee,5,3.8,3.92
+136,136,Virginia Commonwealth University School of Medicine,514,513,Virginia,4,3.74,3.77
+137,137,Virginia Tech Carilion School of Medicine,512,513,Virginia,3,3.52,3.55
+138,138,Wake Forest School of Medicine - Wake Forest Baptist Health,514,513,North Carolina,4,3.74,3.72
+139,139,Warren Alpert Medical School of Brown University,515,516,Rhode Island,4,3.71,3.81
+140,140,Washington State University Elson S. Floyd College of Medicine,509,507,Washington,3,3.62,3.53
+141,141,Washington University School of Medicine in St. Louis,519,522,Missouri,5,3.94,3.93
+142,142,Wayne State University School of Medicine,512,510,Michigan,4,3.82,3.71
+143,143,Weill Cornell Medicine,519,520,New York,5,3.88,3.9
+144,144,West Virginia University School of Medicine,508,510,West Virginia,3,3.83,3.8
+145,145,Western Michigan University Homer Stryker M.D. School of Medicine,515,516,Michigan,2,3.79,3.68
+146,146,Wright State University Boonshoft School of Medicine,510,504,Ohio,2,3.73,3.47
+147,147,Yale School of Medicine,519,521,Connecticut,5,3.71,3.91
+148,148,Nova Southeastern University Dr. Kiran C. Patel College of Allopathic Medicine,512,512,Florida,0,3.78,3.64
